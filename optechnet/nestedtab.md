@@ -7,7 +7,7 @@
 <table>
 <thead>
 <tr>
-<th>Method
+<th width="100px">Method
 </th>
 <th>Description
 </th>
@@ -21,9 +21,9 @@
 <table>
 <thead>
 <tr>
-<th width="50px">Method
+<th width="100px">Method
 </th>
-<th width="100px">Description
+<th>Description
 </th>
 </tr>
 </thead>
