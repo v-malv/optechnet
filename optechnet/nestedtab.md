@@ -21,15 +21,15 @@
 <table>
 <thead>
 <tr>
-<th>Method
+<th width="50px">Method
 </th>
-<th>Description
+<th width="100px">Description
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="https://int.msdn.microsoft.com/en-us/library/fb7sb5f9.aspx">IDiaSession::get_loadAddress</a>
+<td ><a href="https://int.msdn.microsoft.com/en-us/library/fb7sb5f9.aspx">IDiaSession::get_loadAddress</a>
 </td>
 <td>Retrieves the load address for the executable file that corresponds to the symbols in this symbol store. This is the same value that was passed to the put_loadAddress method.
 </td>
